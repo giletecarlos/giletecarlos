@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/giletecarlos/giletecarlos/blob/main/assets/banner-gh.png" width="100%" title="Banner" alt="Intro Banner">
-</p>
-
 👋 I’m Carlos from Barcelona 🇪🇸, I'm 22 years old and I'm a passionate 👨‍💻 **`Full Stack and Software Developer`** with over 4 years of experience in the field.
 
 Currently, I’m the 👨‍💻 **`Founder`** and **`Full Stack Developer`** of an exciting project called iCertit, working alongside two enthusiastic colleagues.
