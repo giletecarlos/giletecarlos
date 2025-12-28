@@ -2,13 +2,7 @@
 
 ---
 
-👋 I’m Carlos from Barcelona 🇪🇸, I'm 22 years old and I'm a passionate 👨‍💻 **`Full Stack and Software Developer`** with over 4 years of experience in the field.
-
-Currently, I’m the 👨‍💻 **`Founder`** and **`Full Stack Developer`** of an exciting project called iCertit, working alongside two enthusiastic colleagues.
-
-Since childhood, I’ve been fascinated by 🖥️ **`technology`**, 📈 **`economics`**, and 💰 **`investments`**. I thrive on being proactive, self-taught, and collaborative, constantly seeking to learn and stay updated in the ever-evolving world of technology. Outside of coding, I enjoy ⚽ football, 🎵 music, and spending quality time with friends.
-
-To learn more about my experience and the projects I’ve worked on, you can visit my 🌐 **`portfolio`** or my 🔗 **`LinkedIn`**, which you’ll find below.
+👋 I’m Carlos from Barcelona 🇪🇸, I'm 24 years old and I'm a passionate 👨‍💻 **`Full Stack and Software Developer`** with over 4 years of experience in the field.
 
 🤓 Let’s connect to explore 🤝 collaboration opportunities and delve deeper into my projects!
 
